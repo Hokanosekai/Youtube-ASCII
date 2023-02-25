@@ -42,9 +42,13 @@ $ python youtube-ascii.py -f <webm-file>
 | `--show-q-size` | | Show the size of the queue |
 | `--show-frame-pos` | | Show the position of the frame |
 
-## Example
+## Examples
 
-[![asciicast](https://asciinema.org/a/1.png)](https://asciinema.org/a/1)
+[![asciicast](https://asciinema.org/a/562819.svg)](https://asciinema.org/a/562819)
+
+[![asciicast](https://asciinema.org/a/562822.svg)](https://asciinema.org/a/562822)
+
+[![asciicast](https://asciinema.org/a/562825.svg)](https://asciinema.org/a/562825)
 
 ## Acknowledgments
 
