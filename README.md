@@ -58,6 +58,7 @@ Feel free to open an issue or a pull request if you want to contribute to this p
 ## Authors
 
 * **Hokanosekai** - *Initial work* - [Hokanosekai](https://github.com/Hokanosekai)
+* **Bash62** - *Initial work* - [Bash62](https://github.com/Bash62)
 
 ## License
 
