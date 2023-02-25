@@ -1,11 +1,6 @@
-from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
-import math
+from concurrent.futures import ThreadPoolExecutor
 from queue import Queue
-import shutil
-import os
 from threading import Lock, Thread
-import time
-from videoreader import VideoReader
 import numpy as np
 from PIL import Image
 

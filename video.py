@@ -30,7 +30,7 @@ class Video:
     self.NO_COLOR                   = args.no_color
     self.COLORIZATION               = args.colorization
 
-    self.PREPROCESSING_WORKERS      = args.preprocessing_workers
+    self.PREPROCESSING_WORKERS      = args.preprocessing_workers[0]
 
   def get_frame(self, pos):
     return self.reader[pos]

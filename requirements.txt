@@ -1,1 +1,4 @@
-pyvideoreader
+numpy==1.19.5
+Pillow==9.4.0
+pyvideoreader==0.5.6
+yt-dlp==2023.2.17
